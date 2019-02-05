@@ -1,7 +1,7 @@
 # Who are we ?
 We are a French working group focused on **single-cell transcriptomics and epigenomics**, invloving 6 institutes/platforms. Our aim to exchange best practices, experience and know-how in the processing and analysis of datasets.
 
-We have organised two summer/winter schools to train bioinformaticians and biostatisticians to the analysis of single-cell omics datasets.
+We have organised [two summer/winter schools](https://github.com/sincellte/schools) to train bioinformaticians and biostatisticians to the analysis of single-cell omics datasets.
 
 
 ## Institut Curie (Paris)
