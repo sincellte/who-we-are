@@ -12,13 +12,13 @@ We have organised [two summer/winter schools](https://github.com/sincellte/schoo
 * Agnès Paquet (statistical analysis and mining of large datasets)
 * Kevin Lebrigand (technologies, experimental approaches, analyses)
 
-## Institut Imagine (Paris)
-* Antonio Rausell (statistical models in transcriptomics)
-* Akira Cortal (statistical models in transcriptomics)
-
 ## Institut de Biologie de l'Ecole Normale Supérieure (Paris)
 * Morgane Thomas-Chollier (epigenomics)
 * Nathalie Lehmann (analysis of transcriptomics and epigenomics datasets)
+
+## Institut Imagine (Paris)
+* Antonio Rausell (statistical models in transcriptomics)
+* Akira Cortal (statistical models in transcriptomics)
 
 ## Plateforme ABIMS (Roscoff)
 * Erwan Corre
